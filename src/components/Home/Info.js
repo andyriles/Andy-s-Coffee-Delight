@@ -20,7 +20,7 @@ function Info() {
               they do help, and they’re great because they let you put that
               story front and center.
             </p>
-            <Link to="/About/">
+            <Link to="/about/">
               <button className="btn text-uppercase btn-yellow">
                 About us
               </button>
