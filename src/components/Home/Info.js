@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import Title from "../../Global/Title"
 
 function Info() {
@@ -20,11 +19,6 @@ function Info() {
               they do help, and they’re great because they let you put that
               story front and center.
             </p>
-            <Link to="/about/">
-              <button className="btn text-uppercase btn-yellow">
-                About us
-              </button>
-            </Link>
           </div>
         </div>
       </div>
